@@ -235,7 +235,6 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 https://ythls.armelin.one/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
-
 #EXTINF:-1 tvg-id="#EXTINF:-1 ,5aab T" tvg-logo="#EXTINF:-1 ,5aab T" group-title="#EXTINF:-1 ,5aab T",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="#EXTINF:-1 ,7S Musi" tvg-logo="#EXTINF:-1 ,7S Musi" group-title="#EXTINF:-1 ,7S Musi",7S Music
